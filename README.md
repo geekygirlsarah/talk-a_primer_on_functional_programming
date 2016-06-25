@@ -11,7 +11,7 @@ Date | Venue
 -----|------
 2016-05-19 | Nebraska.Code() conference
 2016-05-21 | Self.Conference
-2016-06-?? | Kansas City Developer Conference (KCDC)
+2016-06-24 | Kansas City Developer Conference (KCDC)
 
 ##Contact
 I'd love to answer any questions you have about my session. The easiest method to contact me is by Twitter: [@geekygirlsarah](https://www.twitter.com/geekygirlsarah).
