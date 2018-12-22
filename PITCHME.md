@@ -517,3 +517,181 @@ Curtesy of Jessica Kerr (@jessitron)
 
 Curtesy of Jessica Kerr (@jessitron)
 
+---?image=template/bg/title1.png
+@title[3 - Brief Glance at Functional Programming Languages]
+
+# 3. Brief Glance at Functional Programming Languages
+
+---?image=template/bg/design-b.png
+
+### Functional Languages (pure)
+
+<table>
+<tr>
+<td>Agda</td>
+<td>Frege</td>
+<td>Mercury</td>
+</tr><tr>
+<td>Charity</td>
+<td>Futhark</td>
+<td>Miranda</td>
+</tr>
+</tr><tr>
+<td>Clean</td>
+<td>Haskell</td>
+<td>Purescript</td>
+</tr><tr>
+<td>Coq</td>
+<td>Hope</td>
+<td>SAC</td>
+</tr><tr>
+<td>Cuneiform</td>
+<td>Idris</td>
+<td>SASL</td>
+</tr><tr>
+<td>Curry</td>
+<td>Joy</td>
+<td>SequenceL</td>
+</tr><tr>
+<td>Disciple</td>
+<td>KRC</td>
+</tr><tr>
+<td>Elm</td>
+<td>Mars</td>
+</table>
+
+---?image=template/bg/design-b.png
+
+### Functional Languages (impure)
+
+
+<table>
+	<tbody>
+	<tr>
+		<td>ActionScript</td>
+		<td>Dylan<br></td>
+		<td>Julia</td>
+		<td>Q (both of them)<br></td>
+	</tr>
+	<tr>
+		<td>Alice</td>
+		<td>ECMAScript<br></td>
+		<td>Kotlin</td>
+		<td>R<br></td>
+	</tr>
+	<tr>
+		<td>APL</td>
+		<td>Emacs Lisp<br></td>
+		<td>LFE</td>
+		<td>Red<br></td>
+	</tr>
+	<tr>
+		<td>ATS</td>
+		<td>Erlang<br></td>
+		<td>Little b</td>
+		<td>Ruby<br></td>
+	</tr>
+	<tr>
+		<td>CAL</td>
+		<td>Elixir<br></td>
+		<td>Logo</td>
+		<td>REFAL<br></td>
+	</tr>
+	<tr>
+		<td>C++ (since C++11)<br></td>
+		<td>F#<br></td>
+		<td>Mathematica</td>
+		<td>Rust<br></td>
+	</tr>
+	<tr>
+		<td>C#</td>
+		<td>Groovy<br></td>
+		<td>Nemerle</td>
+		<td>Scala<br></td>
+	</tr>
+	<tr>
+		<td>Ceylon</td>
+		<td>Hop<br></td>
+		<td>Nim</td>
+		<td>Scheme/Racket<br></td>
+	</tr>
+	<tr>
+		<td>Clojure</td>
+		<td>J<br></td>
+		<td>OCaml</td>
+		<td>Spreadsheets<br></td>
+	</tr>
+	<tr>
+		<td>Common Lisp<br></td>
+		<td>Java (since JDK8)<br></td>
+		<td>Opal</td>
+		<td>Standard ML (SML)<br></td>
+	</tr>
+	<tr>
+		<td>Curl</td>
+		<td>JavaScript<br></td>
+		<td>OPS5</td>
+		<td>Tea<br></td>
+	</tr>
+	<tr>
+		<td>D</td>
+		<td>JMP Scripting Language (JSL)<br></td>
+		<td>PHP<br></td>
+		<td>Wolfram Language<br></td>
+	</tr>
+	<tr>
+		<td>Dart</td>
+		<td>JScript</td>
+		<td>Python<br></td>
+		<td><br></td>
+	</tr>
+	<tbody>
+</table>
+
+---?image=template/bg/title1.png
+@title[4 - Conclusion]
+
+# 4. Conclusion
+
+---?image=template/bg/design-tl-br.png
+
+### Conclusion
+
+- Functional programming is getting more popular, but been around for decades
+- Functional principles make your code simpler, smaller, and more reliable
+- Functional concepts can work in nearly any language
+
+---?image=template/bg/design-r.png
+
+# Thanks!
+
+**Any questions?**
+
+You can find me at
+- @geekygirlsarah
+- hello@sarahwithee.com
+
+Slides:  geekygirlsarah.com/primer-fp
+
+
+---?image=template/bg/design-r.png
+
+### Credits
+
+Special thanks to all the people who made and realized these awesome resources for free:
+- Presentation template by [SlidesCarnival](http://slidescarnival.com)
+- [GitPitch](http://gitpitch.com)
+- Example images by Jessica Kerr (@jessitron)
+
+---?image=template/bg/design-r.png
+
+### Presentation design
+
+This presentation uses the following typographies and colors:
+- Titles: Montserrat bold
+- Body copy Montserrat light
+
+You can download the fonts on this page:
+https://www.fontsquirrel.com/fonts/montserrat
+
+Yellow #ffc800 · Orange #ffa400 · Raspberry #f64646 · Crimson #e8062f
