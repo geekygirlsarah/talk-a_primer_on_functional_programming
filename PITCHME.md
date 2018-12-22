@@ -486,3 +486,34 @@ In a moment, everyone will stand up.
 1. Each volunteer for will count the array of results (end of each row), add them up
 1. Volunteer will return the final result
 
+---?image=template/bg/design-tl-br.png
+
+### Why Use Functional Programming?
+
+Activity 1 was like a for/while loop
+
+- `x = x + 1`
+- Took a long time
+
+---?image=template/bg/design-tl-br.png
+
+### Why Use Functional Programming?
+
+Activity 2 was recursive and concurrent (and purely functional)
+
+- Rows counted independently
+- No side effects
+- Reduce all the totals together
+
+---?image=template/bg/design-b.png
+
+![](img/module1.png)
+
+Curtesy of Jessica Kerr (@jessitron)
+
+---?image=template/bg/design-b.png
+
+![](img/module2.png)
+
+Curtesy of Jessica Kerr (@jessitron)
+
