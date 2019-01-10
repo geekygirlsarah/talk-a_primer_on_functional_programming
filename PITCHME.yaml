@@ -61,3 +61,9 @@ transition : fade
 # title : "GitPitch - The Quickstart Template"
 # description : "High-utility markdown slide templates for GitPitch presentation authors."
 # thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
+
+
+mousewheel : true
+
+remote-control : true
+

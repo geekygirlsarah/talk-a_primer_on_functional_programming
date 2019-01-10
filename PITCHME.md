@@ -1,12 +1,12 @@
 ---?image=template/bg/title1.png
 @title[0 - Welcome]
 
-# A Primer on Functional Programming
+## @color[#ffffff](A Primer on Functional Programming)
 
-Sarah Withee
-@geekygirlsarah
+@css[title](Sarah Withee)<br />
+@css[title](@geekygirlsarah)
 
-Slides:  geekygirlsarah.com/primer-fp
+@css[title](Slides:  geekygirlsarah.com/primer-fp)
 
 ---?image=template/bg/design-b.png
 @title[0 - Welcome]
@@ -34,19 +34,19 @@ Slides:  geekygirlsarah.com/primer-fp
 ## Intro
 
 1. Functional Programming Concepts
-1. Why Use Functional Programming?
-1. Brief Glance at Functional Programming Languages
+2. Why Use Functional Programming?
+3. Brief Glance at Functional Programming Languages
 
 ---?image=template/bg/design-r.png
 @title[0 - Sarah]
 
-# Hello!
+# @css[theme-raspberry](Hello!)
 
-@img[clip-img](img/sarahwprofile600x600.jpg)
+@img[clip-img profile-pic](img/sarahwprofile600x600.jpg)
 
 *I am Sarah Withee*
 
-I am a software engineer at Arcadia.io
+I am a software engineer at Arcadia.io<br />
 I'm on social media as @geekygirlsarah
 
 (Yes, you can tweet all the things)
@@ -54,16 +54,20 @@ I'm on social media as @geekygirlsarah
 ---?image=template/bg/title1.png
 @title[1 - Functional Programming Concepts]
 
-# 1. Functional Programming Concepts
+# @css[title](1. Functional Programming Concepts)
 
 ---?image=template/bg/design-tl-br.png
 @title[1 - Functional Programming Concepts]
 
+@snap[north-west]
 ### Background
+@snapend
 
+@snap[west]
 It's not new!
 
 (Languages and ideas have been around since 1950s)
+@snapend
 
 ---?image=template/bg/design-tl-br.png
 @title[1 - Functional Programming Concepts]
