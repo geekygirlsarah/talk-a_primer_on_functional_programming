@@ -14,6 +14,7 @@ Date | Version | Venue
 2016-05-21 | 2.0 | Self.Conference
 2016-06-24 | 2.1 | Kansas City Developer Conference (KCDC)
 2018-06-01 | 3.0 | Music City Tech (Music City Code)
+2019-01-10 | 3.1 | CodeMash
 
 ## Contact
 I'd love to answer any questions you have about my session. The easiest method to contact me is by Twitter: [@geekygirlsarah](https://www.twitter.com/geekygirlsarah).
